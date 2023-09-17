@@ -1,5 +1,3 @@
 <h1 align="Center">
-  BIL
+  BIL: 🇬🇹
 </h1>
-
-Built In Latam |🇬🇹
