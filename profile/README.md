@@ -2,4 +2,4 @@
   BIL
 </h1>
 
-Building a better future |🇬🇹
+Built In Latam |🇬🇹
