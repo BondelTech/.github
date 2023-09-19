@@ -1,3 +1,3 @@
 <h1 align="Center">
-  BIL : 🇬🇹
+  BIL Tech: 🇬🇹
 </h1>
